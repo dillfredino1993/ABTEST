@@ -16,3 +16,5 @@ cardone.cc
 bapads.click
 tronmine.network
 xrp-mining.com
+youtube.com
+faucetworld.in
