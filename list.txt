@@ -18,3 +18,4 @@ tronmine.network
 xrp-mining.com
 youtube.com
 faucetworld.in
+satoshimonster.com
