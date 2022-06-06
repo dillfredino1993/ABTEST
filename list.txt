@@ -18,7 +18,6 @@ tronmine.network
 xrp-mining.com
 youtube.com
 faucetworld.in
-satoshimonster.com
-satoshihero.com
-cointiply.com
-satoshihero.com
+satoshimonster.com^
+satoshihero.com^
+cointiply.com^
