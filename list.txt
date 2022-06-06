@@ -20,4 +20,5 @@
 ||faucetworld.in^
 ||satoshimonster.com^
 ||satoshihero.com^
+||satoshihero.com/en/^
 ||cointiply.com^
