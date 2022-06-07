@@ -19,7 +19,10 @@
 ||youtube.com^
 ||faucetworld.in^
 ||satoshimonster.com^
-|satoshimonster.com/en/^
+||satoshimonster.com/en/^
 ||satoshihero.com^
 ||satoshihero.com/en/^
 ||cointiply.com^
+||bitseefull.com^
+||satoshimonster.com/en/register?r=jbe889b6
+||satoshihero.com/en/register?r=jbe889b6
