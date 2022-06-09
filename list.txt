@@ -29,3 +29,4 @@
 ||womplay.io^
 ||cryptoarea.net^
 ||faucetify.io^
+||p2pr.me^
