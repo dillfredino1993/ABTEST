@@ -30,3 +30,6 @@
 ||cryptoarea.net^
 ||faucetify.io^
 ||p2pr.me^
+||binance.com^
+||trustdice.win^
+||ethrocket.net^
