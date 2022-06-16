@@ -34,3 +34,7 @@
 ||trustdice.win^
 ||ethrocket.net^
 ||gleam.io^
+||pionex.com^
+||faucetcrypto.com^
+||challenge.gives^
+||freecash.com^
