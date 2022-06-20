@@ -38,3 +38,6 @@
 ||faucetcrypto.com^
 ||challenge.gives^
 ||freecash.com^
+||superstep.io^
+||2captcha.com^
+||https://www.maya.ph^
