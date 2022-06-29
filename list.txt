@@ -1,3 +1,4 @@
+! Expires: 12 hours
 ||play.google.com^
 ||freebitco.in^
 ||honeygain.me^
