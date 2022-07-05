@@ -61,3 +61,6 @@
 ||asjfx.co^
 ||bitcoin-city.space^
 ||cryptocompanion.io^
+||coinlean.com^
+||faucet4news.xyz^
+||superstep.org^
