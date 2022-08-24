@@ -1,11 +1,11 @@
 ! Expires: 12 hours
-*$document,domain=com|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=io|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=me|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=finance|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=site|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=ref|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
-*$document,domain=bnbminer.finance|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=com|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=net|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=io|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=me|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=finance|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=site|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
+*$document,domain=ref|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in|~jsdelivr.net,important
 ||https://bnbminer.finance/?ref=0x320fC162C6fAe6427d9bd42b8ae8aa028eBf68B8
 ||pastelink.net^
 ||love^
@@ -23,7 +23,6 @@ betfury.io##.notifications
 ||us^
 ||love^
 ||website^
-||net^
 ||cc^
 ||click^
 ||network^
