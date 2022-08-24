@@ -1,8 +1,25 @@
 ! Expires: 12 hours
-||com^
-||in^
+*$document,domain=com|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=io|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=me|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=finance|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=site|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=ref|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+*$document,domain=bnbminer.finance|~ipleak.net|~dropz.xyz|~hcaptcha.com|~bithomp.com|~betfury.io|~google.com|~freebitco.in,important
+||https://bnbminer.finance/?ref=0x320fC162C6fAe6427d9bd42b8ae8aa028eBf68B8
+||pastelink.net^
+||love^
+||tk^
+||adcryptocoin.website^
+||get-bitcoin.net^
+||net^|~jsdelivr.net
+||com.ng^
+||trendflow.com.ng^
+
+! 2022-08-14 https://betfury.io
+betfury.io##.notifications
+
 ||me^
-||io^
 ||us^
 ||love^
 ||website^
@@ -30,10 +47,3 @@
 ||org^
 ||buzz^
 ||easy-ec5.xyz^
-|~ipleak.net^
-|~dropz.xyz^
-|~hcaptcha.com^
-|~bithomp.com^
-|~betfury.io^
-|~google.com^
-|~freebitco.in^
